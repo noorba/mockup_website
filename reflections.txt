@@ -1,0 +1,20 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+What new skills have you learned?
+I have learned how to make a horizintal line using <hr>
+What has been easy?
+using the tags I alredy know like the <em>,<p>,<h1>
+What has been difficult?
+remebring the imgies and url code I can copy them but I want to remember them.
+findig te write tags like <hr>,<s>
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+I search the hints as well google it and examine more expaales and use the tags in a diffrenet ways 
